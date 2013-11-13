@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+	<lang>0</lang>
+    <server>localhost</server>
+    <port>5000</port>
+	<save>false</save>
+</config>
